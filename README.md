@@ -2,7 +2,7 @@
 ![Kaseicoin](https://user-images.githubusercontent.com/86034323/142831784-c98e2661-61b2-457e-a6c2-f51d3dbf347f.png)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**DISCLAIMER:** This is just a college project based on hypothetical situation instructed to students to test their Blockchain Skills, hereby this Token doesn't contain any monetary value in any form. The content/code mentioned below is just for education purpose only & it's not a financial advice to consider this token to invest in any form.
+**DISCLAIMER:** This is just a college project based on hypothetical situation instructed to students to test their Blockchain Skills, hereby this Token doesn't contain any monetary value in any form. The content/code mentioned below is just for education purpose only & it's not a financial advice to consider this token to invest in any form or even to promote by any means.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -35,7 +35,7 @@ Smart Contracts compiled in Version: Pragma Solidity 0.5.5
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**TECHNOLOGIES**
+**TECHNOLOGIES:**
 
 - Remix IDE - (https://remix.ethereum.org/#optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.7+commit.e28d00a7.js)
 - Code Compiler Version: 0.5.5 (OpenZeppelin Solidity Library)
@@ -47,27 +47,30 @@ Smart Contracts compiled in Version: Pragma Solidity 0.5.5
 - Wallet: Metamask
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**ETHEREUM SMART CONTRACT (Environment: Remix IDE)**
+**ETHEREUM SMART CONTRACTS (Environment: Remix IDE)**
 ----------------------------------------------------
 
-**A. Following basic functionalities are defined in Smart Contract:**
+**A. Following Smart Contracts are Defined, Compiled & Deployed:**
 
 **1. Defined & Compile Contracts:** 
 
-A. Under Version Pragma Solidity 0.5.5, the Contract defined as "KaseiCoin" with few variables:
+I. Under Version Pragma Solidity 0.5.5, the Contract defined as "KaseiCoin" with few variables:
 
 ![Compiled KaseiCoin Contract](https://user-images.githubusercontent.com/86034323/142838401-15a9bdc9-a05a-47b2-909a-a68ec74f88ec.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-B. Under Version Pragma Solidity 0.5.5, the Contract defined as "KaseiCoinCrowdSale" with few variables:
+II. Under Version Pragma Solidity 0.5.5, the Contract defined as "KaseiCoinCrowdSale" with few variables:
 
 ![Compiled KaseiCoinCrowdsale Contract](https://user-images.githubusercontent.com/86034323/142838636-4dc79422-f967-4e1a-8849-7bb3c9745f3b.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-C. Under Version Pragma Solidity 0.5.5, the Contract defined as "KaseiCoinCrowdSaleDeployer" with few variables:
+III. Under Version Pragma Solidity 0.5.5, the Contract defined as "KaseiCoinCrowdSaleDeployer" with few variables:
 
 ![Compiled KaseiCoinCrowdsaleDeployer Contract](https://user-images.githubusercontent.com/86034323/142838782-2e504053-b420-4217-b4e2-b94a639e83a1.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**2. Deploy Contracts:**
+
