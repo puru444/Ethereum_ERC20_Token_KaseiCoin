@@ -146,7 +146,28 @@ D. Verify the Transaction on Personal Blockchain (GANACHE) with details:
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+**5. DEPLOY CONTRACT "KaseiCoinCrowdSale":**
 
+A. Deploy the CrowdSale contract: "KaseiCoinCrowdSale" with: Rate: "100", Wallet: "0x27583414d38e0E595901369a7147611010F3F58c", Token: "0x27583414d38e0E595901369a7147611010F3F58c". Metamask Wallet displays the Estimated Gas Fees and Total Amount spent in order to deploy this contract:
+
+![KaseiCoin_CrowdSale_Confirmation_Step1](https://user-images.githubusercontent.com/86034323/142850645-d937c758-0b8f-4c05-8a4e-3234ac693551.png)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+B. Check the Metamask Wallet Balance i.e. reduced by the Gas Fees spent on Contract Deployment with details:
+
+![KaseiCoin_CrowdSale_Confirmation_Step2](https://user-images.githubusercontent.com/86034323/142851202-2b14bf34-e954-46ed-b1c4-aeeb48f1ac45.png)
+![KaseiCoin_CrowdSale_Confirmation_Step3](https://user-images.githubusercontent.com/86034323/142851220-349a96ea-7965-4d7a-8c15-a41824665c81.png)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+C. Verify the Transaction on Personal Blockchain (GANACHE) with details:
+
+![KaseiCoin_CrowdSale_Confirmation_Step4](https://user-images.githubusercontent.com/86034323/142851351-df761181-67b9-4b2e-b7b3-6b64b6af7672.png)
+
+![KaseiCoin_CrowdSale_Confirmation_Step5](https://user-images.githubusercontent.com/86034323/142851377-cac8a57f-9b6d-429f-a262-5604b9012fe1.png)
+
+![KaseiCoin_CrowdSale_Confirmation_Step6](https://user-images.githubusercontent.com/86034323/142851397-dfd483a1-eaff-4d36-84b8-4bfddb71a5dd.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
