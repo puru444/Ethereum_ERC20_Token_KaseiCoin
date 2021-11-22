@@ -18,7 +18,7 @@ KaseiCoin will be a fungible token that is ERC-20 compliant. I will launch a cro
 **CONTENT:**
 - Project Description
 - Technologies
-- Ethereum Smart Contract - Features & Transactions
+- Ethereum Smart Contracts - Features & Transactions
 - Contributor
 - License
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -102,5 +102,15 @@ D. Check the Metamask Wallet Balance i.e. reduced by the Gas Fees spent on Contr
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+E. Verify the Transaction on Personal Blockchain (GANACHE) with details:
 
+![KaseiCoin_Deployed_Confirmation_Step4](https://user-images.githubusercontent.com/86034323/142845349-bec288fd-6003-47ba-831a-ca10fb03eefb.png)
+
+![KaseiCoin_Deployed_Confirmation_Step5](https://user-images.githubusercontent.com/86034323/142845393-f5b85ff1-2212-4f58-9940-071640c18628.png)
+
+![KaseiCoin_Deployed_Confirmation_Step6](https://user-images.githubusercontent.com/86034323/142845426-732fc0d5-bbff-4a6a-a81e-beb9241de97a.png)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+F. 
 
