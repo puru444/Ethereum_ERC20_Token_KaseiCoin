@@ -74,7 +74,7 @@ C. Under Version Pragma Solidity 0.5.5, the Contract defined as "KaseiCoinCrowdS
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**2. Deploy Contracts:**
+**2. Deploy Contract "KaseiCoin":**
 
 A. In order to deploy the Contracts, 90 Ether were sent from Ganache (Personal Blockchain) to MetaMask (Wallet) to cover expenses:
 
@@ -112,5 +112,18 @@ E. Verify the Transaction on Personal Blockchain (GANACHE) with details:
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-F. 
+**3. Deploy Contract "KaseiCoinCrowdSaleDeployer":**
+
+A. Quick check on the balance on-hand in Metamask Wallet and copy the Wallet Address in order to deploy the contract "KaseiCoinCrowdSaleDeployer":
+
+![KaseiCoinCrowdSale_Deployed_Confirmation_Step1meta](https://user-images.githubusercontent.com/86034323/142847023-8a2e4f3e-ada6-47a0-89ad-5bc87fcd08f0.png)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+B. Deploy the CrowdSale Deployer contract: "KaseiCoinCrowdSaleDeployer" with: Name of the Coin: "KaseiCoin", Symbol: "KAS", Wallet Address: "0x27583414d38e0E595901369a7147611010F3F58c". Metamask Wallet displays the Estimated Gas Fees and Total Amount spent in order to deploy this contract:
+
+![KaseiCoinCrowdSaleDeployed_confirmation_step1](https://user-images.githubusercontent.com/86034323/142847369-e0afdd16-16cc-4628-b199-2d214bab6954.png)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
