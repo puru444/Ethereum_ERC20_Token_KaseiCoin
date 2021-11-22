@@ -192,7 +192,6 @@ C. Verify the Transaction on Personal Blockchain (GANACHE) with details:
 ![TRX_2_Step5](https://user-images.githubusercontent.com/86034323/142853927-badbedba-8d4a-4373-b682-a2fff2c416bb.png)
 ![TRX_2_Step6](https://user-images.githubusercontent.com/86034323/142853945-43911123-6301-4ff0-b9ed-971fe8bfc4e2.png)
 ![TRX_2_Step7](https://user-images.githubusercontent.com/86034323/142853970-9f5eada6-8084-4e49-a2f1-ffc4e70da7a2.png)
-![TRX_2_Step7](https://user-images.githubusercontent.com/86034323/142853969-1b3dd1a3-49d4-49c4-84e6-30dfc4bd28d9.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
