@@ -52,7 +52,7 @@ Smart Contracts compiled in Version: Pragma Solidity 0.5.5
 
 **A. Following Smart Contracts are Defined, Compiled & Deployed:**
 
-**1. Defined & Compile Contracts:** 
+**1. Define & Compile Contracts:** 
 
 I. Under Version Pragma Solidity 0.5.5, the Contract defined as "KaseiCoin" with few variables:
 
@@ -73,4 +73,11 @@ III. Under Version Pragma Solidity 0.5.5, the Contract defined as "KaseiCoinCrow
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **2. Deploy Contracts:**
+
+I. In order to deploy the Contracts, 90 Ether were sent from Ganache (Personal Blockchain) to MetaMask (Wallet):
+
+![ganache_sent_eth](https://user-images.githubusercontent.com/86034323/142841440-4240fe1d-7190-4555-a70d-4637d31de583.png)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
