@@ -52,9 +52,9 @@ Smart Contracts compiled in Version: Pragma Solidity 0.5.5
 **ETHEREUM SMART CONTRACTS (Environment: Remix IDE)**
 ----------------------------------------------------
 
-**I. Following Smart Contracts are Defined, Compiled & Deployed:**
+**I. FOLLOWING SMART CONTRACTS ARE DEFINED, COMPILED & DEPLOYED:**
 
-**1. Define & Compile Contracts:** 
+**1. DEFINE & COMPILE CONTRACTS:** 
 
 A. Under Version Pragma Solidity 0.5.5, the Contract defined as "KaseiCoin" with few variables:
 
@@ -74,7 +74,7 @@ C. Under Version Pragma Solidity 0.5.5, the Contract defined as "KaseiCoinCrowdS
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**2. Deploy Contract "KaseiCoin":**
+**2. DEPLOY CONTRACT "KaseiCoin":**
 
 A. In order to deploy the Contracts, 90 Ether were sent from Ganache (Personal Blockchain) to MetaMask (Wallet) to cover expenses:
 
@@ -112,7 +112,7 @@ E. Verify the Transaction on Personal Blockchain (GANACHE) with details:
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**3. Deploy Contract "KaseiCoinCrowdSaleDeployer":**
+**3. DEPLOY CONTRACT "KaseiCoinCrowdSaleDeployer":**
 
 A. Quick check on the balance on-hand in Metamask Wallet and copy the Wallet Address in order to deploy the contract "KaseiCoinCrowdSaleDeployer":
 
@@ -126,4 +126,20 @@ B. Deploy the CrowdSale Deployer contract: "KaseiCoinCrowdSaleDeployer" with: Na
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+C. Check the Metamask Wallet Balance i.e. reduced by the Gas Fees spent on Contract Deployment with details:
+
+![KaseiCoinCrowdSaleDeployed_confirmation_step2](https://user-images.githubusercontent.com/86034323/142848418-2d6e6982-fcfd-4012-be9c-b854efd9f726.png)
+![KaseiCoinCrowdSaleDeployed_confirmation_step3](https://user-images.githubusercontent.com/86034323/142848451-4076be65-cd60-4b29-b37e-ed579d9a9971.png)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+D. Verify the Transaction on Personal Blockchain (GANACHE) with details:
+
+![KaseiCoinCrowdSaleDeployed_confirmation_step4](https://user-images.githubusercontent.com/86034323/142848582-e470a552-cd77-4d86-94b5-2779b5cb571f.png)
+
+![KaseiCoinCrowdSaleDeployed_confirmation_step5](https://user-images.githubusercontent.com/86034323/142848603-b4e63733-d17f-4caf-bef4-b91de081d80f.png)
+
+![KaseiCoinCrowdSaleDeployed_confirmation_step6](https://user-images.githubusercontent.com/86034323/142848627-873138f4-720b-47eb-a637-c547955709bd.png)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
