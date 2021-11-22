@@ -20,7 +20,6 @@ KaseiCoin will be a fungible token that is ERC-20 compliant. I will launch a cro
 - Technologies
 - Ethereum Smart Contracts - Features & Transactions
 - Contributor
-- UC BERKELEY EXTN. PROJECT
 - License
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **PROJECT DESCRIPTION:**
@@ -221,11 +220,6 @@ A. Sent 1 KAS out of Account with remaining balance of 9 KAS in-hand:
 - PRATEEK SHARMA
 
 www.linkedin.com/in/prateek-sharma-21a081180
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**UC BERKELEY EXTN. PROJECT**
-
-![UNEX_LOGO_cmyk_positive_square](https://user-images.githubusercontent.com/86034323/142856918-5f95cc7f-5def-4556-97b5-d8f3061a2c3f.jpg)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **LICENSE**
