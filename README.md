@@ -52,23 +52,23 @@ Smart Contracts compiled in Version: Pragma Solidity 0.5.5
 **ETHEREUM SMART CONTRACTS (Environment: Remix IDE)**
 ----------------------------------------------------
 
-**A. Following Smart Contracts are Defined, Compiled & Deployed:**
+**I. Following Smart Contracts are Defined, Compiled & Deployed:**
 
 **1. Define & Compile Contracts:** 
 
-I. Under Version Pragma Solidity 0.5.5, the Contract defined as "KaseiCoin" with few variables:
+A. Under Version Pragma Solidity 0.5.5, the Contract defined as "KaseiCoin" with few variables:
 
 ![Compiled KaseiCoin Contract](https://user-images.githubusercontent.com/86034323/142838401-15a9bdc9-a05a-47b2-909a-a68ec74f88ec.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-II. Under Version Pragma Solidity 0.5.5, the Contract defined as "KaseiCoinCrowdSale" with few variables:
+B. Under Version Pragma Solidity 0.5.5, the Contract defined as "KaseiCoinCrowdSale" with few variables:
 
 ![Compiled KaseiCoinCrowdsale Contract](https://user-images.githubusercontent.com/86034323/142838636-4dc79422-f967-4e1a-8849-7bb3c9745f3b.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-III. Under Version Pragma Solidity 0.5.5, the Contract defined as "KaseiCoinCrowdSaleDeployer" with few variables:
+C. Under Version Pragma Solidity 0.5.5, the Contract defined as "KaseiCoinCrowdSaleDeployer" with few variables:
 
 ![Compiled KaseiCoinCrowdsaleDeployer Contract](https://user-images.githubusercontent.com/86034323/142838782-2e504053-b420-4217-b4e2-b94a639e83a1.png)
 
@@ -76,21 +76,29 @@ III. Under Version Pragma Solidity 0.5.5, the Contract defined as "KaseiCoinCrow
 
 **2. Deploy Contracts:**
 
-I. In order to deploy the Contracts, 90 Ether were sent from Ganache (Personal Blockchain) to MetaMask (Wallet) to cover expenses:
+A. In order to deploy the Contracts, 90 Ether were sent from Ganache (Personal Blockchain) to MetaMask (Wallet) to cover expenses:
 
 ![ganache_sent_eth](https://user-images.githubusercontent.com/86034323/142841440-4240fe1d-7190-4555-a70d-4637d31de583.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-II. KaseiCoin Contract Deployment under environment "Injected Web3":
+B. KaseiCoin Contract Deployment under environment "Injected Web3":
 
 ![KaseiCoin Deployed_1](https://user-images.githubusercontent.com/86034323/142843183-c09f0bd9-5c03-4f62-ab07-29a4d06670bb.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-III. Transact The deployed contract "KaseiCoin" with: Name of the Coin: "KaseiCoin", Symbol: "KAS", Initial Supply: "100 Quintillion" (Conversion: 1 KAS = 1 ETHER)
+C. Transact The deployed contract "KaseiCoin" with: Name of the Coin: "KaseiCoin", Symbol: "KAS", Initial Supply: "100 Quintillion" (Conversion: 1 KAS = 1 ETHER). Metamask Wallet displays the Gas Fees and Total Amount spent in order to deploy this contract:
 
 ![KaseiCoin_Deployed_Confirmation_Step1](https://user-images.githubusercontent.com/86034323/142843604-6e21c741-24e4-449e-8486-b20d35a7f65c.png)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+D. Check the Metamask Wallet Balance i.e. reduced by the Gas Fees spent on Contract Deployment with details:
+
+![KaseiCoin_Deployed_Confirmation_Step2](https://user-images.githubusercontent.com/86034323/142844764-6206c3bb-1df4-4902-af5a-1b75d2328579.png)
+
+![KaseiCoin_Deployed_Confirmation_Step3](https://user-images.githubusercontent.com/86034323/142844794-35648698-9fbb-49e1-a272-747dd2d8b9d0.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
