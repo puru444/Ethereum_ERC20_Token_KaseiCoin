@@ -13,17 +13,41 @@ KaseiCoin will be a fungible token that is ERC-20 compliant. I will launch a cro
 ![mars image](https://user-images.githubusercontent.com/86034323/142826306-3374034e-a275-4538-97d6-94d67c8f71dd.png)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**CONTENT**
+**CONTENT:**
 - Project Description
 - Technologies
 - Ethereum Smart Contract - Features & Transactions
 - Contributor
 - License
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**PROJECT DESCRIPTION:**
 
-**PROJECT DESCRIPTION**
+KaseiCoin is an Ethereum based ERC-20 Token (Fungible Token) that will be minted by using a Crowdsale contract from the OpenZeppelin Solidity library. The crowdsale contract that I create will manage the entire crowdsale process, allowing users to send ether to the contract and in return receive KAS, or KaseiCoin tokens. 
 
-KaseiCoin is an Ethereum based ERC-20 Token (Fungible Token). 
-We have to launch a CrowdSale that allows people to convert their money into KaseiCoin, this token is being created using a Crowdsale contract from OpenZeppelin Solidity Library. 
+Following are the high-level details of this project:
 
-The Crowdsale Contract manages the entire crowdsale process, allowing users to send ether to the contract and in return receive KaseiCoin Tokens (KAS). 
+Version Used: Pragma Solidity 0.5.0
+Smart Contracts compiled in Version: Pragma Solidity 0.5.5
+
+1. Define a new Contract named **'KaseiCoin'** i.e. ERC20, ERC20Detailed & ERC20Mintable.
+2. Define a new Contract named **'KaseiCoinCrowdSale'** i.e. CrowdSale & MintedCrowdSale.
+3. Define a new Contract named **'KaseiCoinCrowdSaleDeployer'** with public addresses details.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**TECHNOLOGIES**
+
+- Remix IDE - (https://remix.ethereum.org/#optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.7+commit.e28d00a7.js)
+- Code Compiler Version: 0.5.5 (OpenZeppelin Solidity Library)
+- OpenZeppeling Solidity Library - (https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v2.5.0/contracts/crowdsale/Crowdsale.sol, https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v2.5.0/contracts/crowdsale/emission/MintedCrowdsale.sol)
+- Contract Deployment Environment: Injected Web3
+- Language: Solidity
+- Crypto Currency: Ether/Wei
+- Local Blockchain: Ganache
+- Wallet: Metamask
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**ETHEREUM SMART CONTRACT (Environment: Remix IDE)**
+----------------------------------------------------
+
+
