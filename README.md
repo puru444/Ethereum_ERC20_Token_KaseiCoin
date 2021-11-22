@@ -5,7 +5,7 @@
 **DISCLAIMER: This is just a college project with an assumption of some hypothetical situation instructed to students to test their Blockchain Skills, hereby this Token doesn't contain any monetary value in any form. The content/code mentioned below is just for education purpose only & its not a financial advice.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**BACKGROUND:** After waiting for years and passing several tests, I am selected by the Martian Aerospace Agency to be part of the first human colony on Mars. As a prominent fintech professional, I am chosen to lead a project to develop a monetary system for the new Mars colony. I have decided to base this new monetary system on blockchain technology, and to define a new cryptocurrency called KaseiCoin. (“Kasei” means “Mars” in Japanese.)
+**GIVEN SITUATION:** After waiting for years and passing several tests, I have been selected by the Martian Aerospace Agency to be part of the first human colony on Mars. As a prominent Fintech Professional, I am chosen to lead a project to develop a Monetary System for the new Mars colony. I have decided to base this new monetary system on Blockchain Technology, and to define a new cryptocurrency called KaseiCoin. (“Kasei” means “Mars” in Japanese.)
 
 KaseiCoin will be a fungible token that is ERC-20 compliant. I will launch a crowdsale that will allow people who are moving to Mars to convert their earthling money to KaseiCoin.
 
