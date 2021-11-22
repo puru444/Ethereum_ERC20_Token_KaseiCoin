@@ -74,34 +74,38 @@ C. Under Version Pragma Solidity 0.5.5, the Contract defined as "KaseiCoinCrowdS
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**2. DEPLOY CONTRACT "KaseiCoin":**
+**2. CONNECT GANACHE-METAMASK WITH REMIX IDE:**
 
-A. In order to deploy the Contracts, 90 Ether were sent from Ganache (Personal Blockchain) to MetaMask (Wallet) to cover expenses:
+In order to deploy the Contracts, 90 Ether were sent from Ganache (Personal Blockchain) to MetaMask (Wallet) to cover expenses:
 
 ![ganache_sent_eth](https://user-images.githubusercontent.com/86034323/142841440-4240fe1d-7190-4555-a70d-4637d31de583.png)
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![Metamask_Remix_Connection](https://user-images.githubusercontent.com/86034323/142849402-632b7da1-657b-424f-8b1f-1c5eecd10919.png)
 
-B. KaseiCoin Contract Deployment under environment "Injected Web3":
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**3. DEPLOY CONTRACT "KaseiCoin":**
+
+A. KaseiCoin Contract Deployment under environment "Injected Web3":
 
 ![KaseiCoin Deployed_1](https://user-images.githubusercontent.com/86034323/142843183-c09f0bd9-5c03-4f62-ab07-29a4d06670bb.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-C. Transact The deployed contract "KaseiCoin" with: Name of the Coin: "KaseiCoin", Symbol: "KAS", Initial Supply: "100 Quintillion" (Conversion: 1 KAS = 1 ETHER). Metamask Wallet displays the Gas Fees and Total Amount spent in order to deploy this contract:
+B. Transact the deployed contract "KaseiCoin" with: Name of the Coin: "KaseiCoin", Symbol: "KAS", Initial Supply: "100 Quintillion" (Conversion: 1 KAS = 1 ETHER). Metamask Wallet displays the Gas Fees and Total Amount spent in order to deploy this contract:
 
 ![KaseiCoin_Deployed_Confirmation_Step1](https://user-images.githubusercontent.com/86034323/142843604-6e21c741-24e4-449e-8486-b20d35a7f65c.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-D. Check the Metamask Wallet Balance i.e. reduced by the Gas Fees spent on Contract Deployment with details:
+C. Check the Metamask Wallet Balance i.e. reduced by the Gas Fees spent on Contract Deployment with details:
 
 ![KaseiCoin_Deployed_Confirmation_Step2](https://user-images.githubusercontent.com/86034323/142844764-6206c3bb-1df4-4902-af5a-1b75d2328579.png)
 ![KaseiCoin_Deployed_Confirmation_Step3](https://user-images.githubusercontent.com/86034323/142844794-35648698-9fbb-49e1-a272-747dd2d8b9d0.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-E. Verify the Transaction on Personal Blockchain (GANACHE) with details:
+D. Verify the Transaction on Personal Blockchain (GANACHE) with details:
 
 ![KaseiCoin_Deployed_Confirmation_Step4](https://user-images.githubusercontent.com/86034323/142845349-bec288fd-6003-47ba-831a-ca10fb03eefb.png)
 
@@ -111,7 +115,7 @@ E. Verify the Transaction on Personal Blockchain (GANACHE) with details:
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**3. DEPLOY CONTRACT "KaseiCoinCrowdSaleDeployer":**
+**4. DEPLOY CONTRACT "KaseiCoinCrowdSaleDeployer":**
 
 A. Quick check on the balance on-hand in Metamask Wallet and copy the Wallet Address in order to deploy the contract "KaseiCoinCrowdSaleDeployer":
 
