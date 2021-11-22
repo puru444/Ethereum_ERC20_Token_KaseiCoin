@@ -50,4 +50,24 @@ Smart Contracts compiled in Version: Pragma Solidity 0.5.5
 **ETHEREUM SMART CONTRACT (Environment: Remix IDE)**
 ----------------------------------------------------
 
+**A. Following basic functionalities are defined in Smart Contract:**
 
+**1. Defined & Compile Contracts:** 
+
+A. Under Version Pragma Solidity 0.5.5, the Contract defined as "KaseiCoin" with few variables:
+
+![Compiled KaseiCoin Contract](https://user-images.githubusercontent.com/86034323/142838401-15a9bdc9-a05a-47b2-909a-a68ec74f88ec.png)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+B. Under Version Pragma Solidity 0.5.5, the Contract defined as "KaseiCoinCrowdSale" with few variables:
+
+![Compiled KaseiCoinCrowdsale Contract](https://user-images.githubusercontent.com/86034323/142838636-4dc79422-f967-4e1a-8849-7bb3c9745f3b.png)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+C. Under Version Pragma Solidity 0.5.5, the Contract defined as "KaseiCoinCrowdSaleDeployer" with few variables:
+
+![Compiled KaseiCoinCrowdsaleDeployer Contract](https://user-images.githubusercontent.com/86034323/142838782-2e504053-b420-4217-b4e2-b94a639e83a1.png)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
