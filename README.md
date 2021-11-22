@@ -2,11 +2,11 @@
 ![Kaseicoin](https://user-images.githubusercontent.com/86034323/142831784-c98e2661-61b2-457e-a6c2-f51d3dbf347f.png)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**DISCLAIMER:** This is just a college project based on hypothetical situation instructed to students to test their Blockchain Skills, hereby this Token doesn't contain any monetary value in any form. The content/code mentioned below is just for education purpose only & it's not a financial advice.
+**DISCLAIMER:** This is just a college project based on hypothetical situation instructed to students to test their Blockchain Skills, hereby this Token doesn't contain any monetary value in any form. The content/code mentioned below is just for education purpose only & it's not a financial advice to consider this token to invest in any form.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**GIVEN SITUATION:** After waiting for years and passing several tests, I have been selected by the Martian Aerospace Agency to be part of the first human colony on Mars. As a prominent Fintech Professional, I am chosen to lead a project to develop a Monetary System for the new Mars colony. I have decided to base this new monetary system on Blockchain Technology, and to define a new cryptocurrency called KaseiCoin. (“Kasei” means “Mars” in Japanese.)
+**BACKGROUND:** After waiting for years and passing several tests, I have been selected by the Martian Aerospace Agency to be part of the first human colony on Mars. As a prominent Fintech Professional, I am chosen to lead a project to develop a Monetary System for the new Mars colony. I have decided to base this new monetary system on Blockchain Technology, and to define a new cryptocurrency called KaseiCoin. (“Kasei” means “Mars” in Japanese.)
 
 KaseiCoin will be a fungible token that is ERC-20 compliant. I will launch a crowdsale that will allow people who are moving to Mars to convert their earthling money to KaseiCoin.
 
@@ -22,3 +22,8 @@ KaseiCoin will be a fungible token that is ERC-20 compliant. I will launch a cro
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **PROJECT DESCRIPTION**
+
+KaseiCoin is an Ethereum based ERC-20 Token (Fungible Token). 
+We have to launch a CrowdSale that allows people to convert their money into KaseiCoin, this token is being created using a Crowdsale contract from OpenZeppelin Solidity Library. 
+
+The Crowdsale Contract manages the entire crowdsale process, allowing users to send ether to the contract and in return receive KaseiCoin Tokens (KAS). 
