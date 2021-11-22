@@ -2,9 +2,7 @@
 ![Kaseicoin](https://user-images.githubusercontent.com/86034323/142831784-c98e2661-61b2-457e-a6c2-f51d3dbf347f.png)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**DISCLAIMER:** 
-
-This is just a college project based on hypothetical situation instructed to students to test their Blockchain Skills, hereby this Token doesn't contain any monetary value in any form. The content/code mentioned below is just for education purpose only & it's not a financial advice.
+**DISCLAIMER:** This is just a college project based on hypothetical situation instructed to students to test their Blockchain Skills, hereby this Token doesn't contain any monetary value in any form. The content/code mentioned below is just for education purpose only & it's not a financial advice.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
