@@ -82,4 +82,17 @@ I. In order to deploy the Contracts, 90 Ether were sent from Ganache (Personal B
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+II. KaseiCoin Contract Deployment under environment "Injected Web3":
+
+![KaseiCoin Deployed_1](https://user-images.githubusercontent.com/86034323/142843183-c09f0bd9-5c03-4f62-ab07-29a4d06670bb.png)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+III. Transact The deployed contract "KaseiCoin" with: Name of the Coin: "KaseiCoin", Symbol: "KAS", Initial Supply: "100 Quintillion" (Conversion: 1 KAS = 1 ETHER)
+
+![KaseiCoin_Deployed_Confirmation_Step1](https://user-images.githubusercontent.com/86034323/142843604-6e21c741-24e4-449e-8486-b20d35a7f65c.png)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 
