@@ -171,6 +171,22 @@ C. Verify the Transaction on Personal Blockchain (GANACHE) with details:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+**6. MINT THE COINS "KAS":**
+
+A. Mint the KaseiCoins "KAS" under wallet: "0x27583414d38e0E595901369a7147611010F3F58c" with the total amount: 10 Quintilllion Wei or 10 KAS. Metamask Wallet displays: The new account notification where these 10 KAS will be deposited with the Estimated Gas Fees and Total Amount spent in order to MINT these 10 KAS Coins:
+
+![TRX_2_Step1](https://user-images.githubusercontent.com/86034323/142852495-e5a0104e-d2af-4392-a9a0-50cf1f0dc37f.png)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+B. Metamask Wallet has been updated with New Account Name to carry 10 KAS with remaining ETHER Balance & Transaction Details:
+
+![TRX_2_Step2](https://user-images.githubusercontent.com/86034323/142853486-365d29ab-a7bb-4660-b020-8329466bb837.png)
+![TRX_2_Step3](https://user-images.githubusercontent.com/86034323/142853502-5a04ecd4-b5a1-4c9e-8b0d-04e4246dd7ea.png)
+![TRX_2_Step4](https://user-images.githubusercontent.com/86034323/142853515-eff897d0-9f1b-4ec8-8182-53ded65d9837.png)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 **CONTRIBUTOR**
 
 - PRATEEK SHARMA
