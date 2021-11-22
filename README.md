@@ -4,7 +4,7 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **DISCLAIMER:** This is just a college project based on hypothetical situation instructed to students to test their Blockchain Skills, hereby this Token doesn't contain any monetary value in any form. The content/code mentioned below is just for education purpose only & it's not a financial advice to consider this token to invest in any form or even to promote by any means.
 
-Ether used in this project are FAKE Ethers, the performance has been tested in test instance and please don not consider any of these ether as real ones. (I am not that Rich :p)
+Ether/Wei used in this project are FAKE Ether/Wei, in order to test the capabilities of this project I have used the replica of Ether in test instance. Therefore, please do not consider any of these ether as real ones.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
