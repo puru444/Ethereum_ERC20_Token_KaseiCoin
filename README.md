@@ -4,6 +4,8 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **DISCLAIMER:** This is just a college project based on hypothetical situation instructed to students to test their Blockchain Skills, hereby this Token doesn't contain any monetary value in any form. The content/code mentioned below is just for education purpose only & it's not a financial advice to consider this token to invest in any form or even to promote by any means.
 
+Ether used in this project are FAKE Ethers, the performance has been tested in test instance and please don not consider any of these ether as real ones. (I am not that Rich :p)
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **BACKGROUND:** After waiting for years and passing several tests, I have been selected by the Martian Aerospace Agency to be part of the first human colony on Mars. As a prominent Fintech Professional, I am chosen to lead a project to develop a Monetary System for the new Mars colony. I have decided to base this new monetary system on Blockchain Technology, and to define a new cryptocurrency called KaseiCoin. (“Kasei” means “Mars” in Japanese.)
@@ -74,7 +76,7 @@ III. Under Version Pragma Solidity 0.5.5, the Contract defined as "KaseiCoinCrow
 
 **2. Deploy Contracts:**
 
-I. In order to deploy the Contracts, 90 Ether were sent from Ganache (Personal Blockchain) to MetaMask (Wallet):
+I. In order to deploy the Contracts, 90 Ether were sent from Ganache (Personal Blockchain) to MetaMask (Wallet) to cover expenses:
 
 ![ganache_sent_eth](https://user-images.githubusercontent.com/86034323/142841440-4240fe1d-7190-4555-a70d-4637d31de583.png)
 
