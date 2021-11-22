@@ -97,7 +97,6 @@ C. Transact The deployed contract "KaseiCoin" with: Name of the Coin: "KaseiCoin
 D. Check the Metamask Wallet Balance i.e. reduced by the Gas Fees spent on Contract Deployment with details:
 
 ![KaseiCoin_Deployed_Confirmation_Step2](https://user-images.githubusercontent.com/86034323/142844764-6206c3bb-1df4-4902-af5a-1b75d2328579.png)
-
 ![KaseiCoin_Deployed_Confirmation_Step3](https://user-images.githubusercontent.com/86034323/142844794-35648698-9fbb-49e1-a272-747dd2d8b9d0.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -142,4 +141,19 @@ D. Verify the Transaction on Personal Blockchain (GANACHE) with details:
 ![KaseiCoinCrowdSaleDeployed_confirmation_step6](https://user-images.githubusercontent.com/86034323/142848627-873138f4-720b-47eb-a637-c547955709bd.png)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**CONTRIBUTOR**
+
+- PRATEEK SHARMA
+
+www.linkedin.com/in/prateek-sharma-21a081180
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**LICENSE**
+
+GNU General Public License v3.0
 
