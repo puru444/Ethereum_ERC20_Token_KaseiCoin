@@ -2,7 +2,7 @@
 ![Kaseicoin](https://user-images.githubusercontent.com/86034323/142831784-c98e2661-61b2-457e-a6c2-f51d3dbf347f.png)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**DISCLAIMER: THIS IS JUST A COLLEGE PROJECT WITH AN ASSUMPTION OF SOME HYPOTHETICAL SITUATION INSTRUCTED TO STUDENTS' TO TEST THEIR BLOCKCHAIN SKILLS, HEREBY THIS TOKEN DOESN'T CONTAIN ANY MONETARY VALUE IN ANY FORM. THE CONTENT/CODE MENTIONED BELOW IS JUST FOR EDUCATION PURPOSE ONLY & ITS NOT A FINANCIAL ADVICE**
+**DISCLAIMER: This is just a college project with an assumption of some hypothetical situation instructed to students to test their Blockchain Skills, hereby this Token doesn't contain any monetary value in any form. The content/code mentioned below is just for education purpose only & its not a financial advice.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **BACKGROUND:** After waiting for years and passing several tests, I am selected by the Martian Aerospace Agency to be part of the first human colony on Mars. As a prominent fintech professional, I am chosen to lead a project to develop a monetary system for the new Mars colony. I have decided to base this new monetary system on blockchain technology, and to define a new cryptocurrency called KaseiCoin. (“Kasei” means “Mars” in Japanese.)
